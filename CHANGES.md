@@ -1,3 +1,9 @@
+## v0.7.1 (2022-03-14)
+
+* Fix syntax error in stubs ld file (#509)
+* Fix `opam-release.sh (#511)
+* elftool: generate manifests from stdin or to stdout (#510)
+
 ## v0.7.0 (2021-12-31)
 
 * Remove Genode bindings (#494, #506)
